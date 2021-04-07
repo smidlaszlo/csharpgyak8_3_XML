@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<students>
+	<student firstName="Rita" lastName="Rubint" sex="female">
+		<dateOfBirth year="1992" month="07" day="12"/>
+		<courses>
+			<course id="bd64f" grade="4"/>
+			<course id="a87d4" grade="3"/>
+		</courses>		
+	</student>
+
+	<student firstName="Laura" lastName="Lisztes" sex="female">
+		<dateOfBirth year="1993" month="01" day="09"/>
+		<courses>
+			<course id="a87d4" grade="5"/>
+			<course id="z6df3" grade="2"/>
+		</courses>		
+	</student>
+
+	<student firstName="István" lastName="Iroczky" sex="male">
+		<dateOfBirth year="1991" month="02" day="27"/>
+		<courses>
+			<course id="10i7e" grade="3"/>
+		</courses>
+	</student>
+
+</students>

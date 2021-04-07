@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<courses>
+	<course id="bd64f" name="Debugging" credits="3"/>
+	<course id="z6df3" name="Programming Technologies" credits="3"/>
+	<course id="a87d4" name="Visual Computing" credits="4"/>
+	<course id="10i7e" name="Genetic Algorithms" credits="2"/>
+</courses>
